@@ -1,0 +1,16 @@
+{
+   "code":200,
+   "name":"xuexue",
+   "age": 25,
+   "list": [
+    {
+      "name": "xuexue",
+      "age": 25
+    },
+    {
+      "name": "huansghuwei",
+      "age":22,
+      "sex":"man"
+    }
+  ]
+}
